@@ -1,0 +1,14 @@
+c:\Users\sesac\UnityStudy\CSharpProject\bin\Debug\net8.0\CSharpProject.exe
+C:\Users\sesac\UnityStudy\CSharpProject\bin\Debug\net8.0\CSharpProject.deps.json
+C:\Users\sesac\UnityStudy\CSharpProject\bin\Debug\net8.0\CSharpProject.runtimeconfig.json
+c:\Users\sesac\UnityStudy\CSharpProject\bin\Debug\net8.0\CSharpProject.dll
+c:\Users\sesac\UnityStudy\CSharpProject\bin\Debug\net8.0\CSharpProject.pdb
+c:\Users\sesac\UnityStudy\CSharpProject\obj\Debug\net8.0\CSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sesac\UnityStudy\CSharpProject\obj\Debug\net8.0\CSharpProject.AssemblyInfoInputs.cache
+c:\Users\sesac\UnityStudy\CSharpProject\obj\Debug\net8.0\CSharpProject.AssemblyInfo.cs
+c:\Users\sesac\UnityStudy\CSharpProject\obj\Debug\net8.0\CSharpProject.csproj.CoreCompileInputs.cache
+c:\Users\sesac\UnityStudy\CSharpProject\obj\Debug\net8.0\CSharpProject.dll
+c:\Users\sesac\UnityStudy\CSharpProject\obj\Debug\net8.0\refint\CSharpProject.dll
+c:\Users\sesac\UnityStudy\CSharpProject\obj\Debug\net8.0\CSharpProject.pdb
+C:\Users\sesac\UnityStudy\CSharpProject\obj\Debug\net8.0\CSharpProject.genruntimeconfig.cache
+C:\Users\sesac\UnityStudy\CSharpProject\obj\Debug\net8.0\ref\CSharpProject.dll

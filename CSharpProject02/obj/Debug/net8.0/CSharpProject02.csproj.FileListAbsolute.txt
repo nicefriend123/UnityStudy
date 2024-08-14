@@ -1,0 +1,14 @@
+C:\Users\sesac\UnityStudy\CSharpProject02\bin\Debug\net8.0\CSharpProject02.exe
+C:\Users\sesac\UnityStudy\CSharpProject02\bin\Debug\net8.0\CSharpProject02.deps.json
+C:\Users\sesac\UnityStudy\CSharpProject02\bin\Debug\net8.0\CSharpProject02.runtimeconfig.json
+C:\Users\sesac\UnityStudy\CSharpProject02\bin\Debug\net8.0\CSharpProject02.dll
+C:\Users\sesac\UnityStudy\CSharpProject02\bin\Debug\net8.0\CSharpProject02.pdb
+C:\Users\sesac\UnityStudy\CSharpProject02\obj\Debug\net8.0\CSharpProject02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sesac\UnityStudy\CSharpProject02\obj\Debug\net8.0\CSharpProject02.AssemblyInfoInputs.cache
+C:\Users\sesac\UnityStudy\CSharpProject02\obj\Debug\net8.0\CSharpProject02.AssemblyInfo.cs
+C:\Users\sesac\UnityStudy\CSharpProject02\obj\Debug\net8.0\CSharpProject02.csproj.CoreCompileInputs.cache
+C:\Users\sesac\UnityStudy\CSharpProject02\obj\Debug\net8.0\CSharpProject02.dll
+C:\Users\sesac\UnityStudy\CSharpProject02\obj\Debug\net8.0\refint\CSharpProject02.dll
+C:\Users\sesac\UnityStudy\CSharpProject02\obj\Debug\net8.0\CSharpProject02.pdb
+C:\Users\sesac\UnityStudy\CSharpProject02\obj\Debug\net8.0\CSharpProject02.genruntimeconfig.cache
+C:\Users\sesac\UnityStudy\CSharpProject02\obj\Debug\net8.0\ref\CSharpProject02.dll
