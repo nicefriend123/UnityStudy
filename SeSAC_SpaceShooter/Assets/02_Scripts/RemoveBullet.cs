@@ -6,7 +6,7 @@ public class RemoveBullet : MonoBehaviour
 
     void OnCollisionEnter(Collision coll)
     {
-        // 충동한 물체를 파악
+        // 충돌한 물체를 파악
         if (coll.collider.CompareTag("BULLET"))
         {
             // 충돌 정보
@@ -24,6 +24,7 @@ public class RemoveBullet : MonoBehaviour
             Destroy(obj, 0.5f);
 
             Destroy(coll.gameObject);
+
         }
 
 

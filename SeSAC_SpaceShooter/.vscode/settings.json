@@ -56,6 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "SpaceShooter.sln",
+    "dotnet.defaultSolution": "SeSAC_SpaceShooter.sln",
     "git.ignoreLimitWarning": true
 }
